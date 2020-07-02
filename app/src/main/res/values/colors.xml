@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="year">#999999</color>
+    <color name="title">#0c0c0c</color>
+    <color name="border">#d6d0d0</color>
+    <color name="bg">#fdfdfd</color>
+    <color name="bg2">#b9acac</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

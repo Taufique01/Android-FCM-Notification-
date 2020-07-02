@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821523154071",
+    "firebase_url": "https://shopnaija.firebaseio.com",
+    "project_id": "shopnaija",
+    "storage_bucket": "shopnaija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821523154071:android:d551f2841bc6a8be",
+        "android_client_info": {
+          "package_name": "com.taufique.shopnaija"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821523154071-u6sb58ghr8c2togpth3psl3hep72bld1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taufique.shopnaija",
+            "certificate_hash": "b177a33a2ac7b7a04a5a2ea3895dda12e3d97894"
+          }
+        },
+        {
+          "client_id": "821523154071-d41o5o933uma4f5ubp8cin2gfa98k32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7v6RQdTnAotDvVUdIvd5ezGB6kfNOxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821523154071-d41o5o933uma4f5ubp8cin2gfa98k32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
